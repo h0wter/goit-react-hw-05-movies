@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 export const BackLink = styled(Link)`
   padding: 2px 5px;
-  margin-bottom: 5px;
+  margin-bottom: 2px;
   background-color: #fff;
   border: 1px solid #d5d9d9;
   border-radius: 5px;
